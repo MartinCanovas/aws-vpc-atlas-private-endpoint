@@ -55,6 +55,10 @@ Destroy the Terraform-managed infrastructure:
 $ terraform destroy
 ```
 
+# Related Projects
+
+- [MongoDB Atlas Cluster](https://github.com/MartinCanovas/mongodb-atlas)
+
 <br/><br/>
 # License 
 
