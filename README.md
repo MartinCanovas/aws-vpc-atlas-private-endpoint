@@ -1,6 +1,7 @@
 # Overview
 
 Terraform script that creates an AWS VPC with an Endpoint that connects with an Atlas Private Endpoint.
+
 AWS VPC has 2 Public and 2 Private subnets.
 <br/><br/>
 
