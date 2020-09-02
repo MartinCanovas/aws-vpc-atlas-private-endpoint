@@ -38,8 +38,8 @@ variable "namespace" {
 variable "vpc_tags" {
   default = {
     Name      = ""
-    Expire-on = ""
-    Owner     = ""
-    Misc      = "Added by Terraform"
+    expire-on = ""
+    owner     = ""
+    misc      = "Added by Terraform"
   }
 }
