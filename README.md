@@ -39,6 +39,10 @@ Edit the following variables in the variables.tf file:
 - `name_vpc`
 - `name_subnet`
 
+Initialize the working directory:
+```
+$ terraform init
+```
 
 Create an execution plan:
 ```
